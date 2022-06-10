@@ -1,0 +1,8 @@
+/* src/styles/ForcastSummaries.css */
+
+.forecast-summaries {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
